@@ -1,3 +1,4 @@
+##source taken from https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-4-linear-regression-in-r/
 
 wine <- read.csv("data/wine.csv")
 str(wine)
